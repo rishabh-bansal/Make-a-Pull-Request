@@ -1,4 +1,4 @@
-# Aakanksha Jain
+# Harshaan Nihal
 
 ## Whoami:
 I’m a CSE major undergraduate student currently residing in Dharamshala, India. I like to code, read, write, draw and dream to travel a lot! 
@@ -16,6 +16,7 @@ That’s enough for here! I’m like recursion, to understand me, you need to un
 - HTML
 - CSS
 - C/C++
+- urdu
 - Php
 - Javascript
 
