@@ -3,6 +3,8 @@
 # Hello Developers :wave:
 ## Let's help you submit your first Pull Request!
 
+thanks for your help
+
 Follow the instructions [here](https://gitstart.tech) to get started. 
 
 
